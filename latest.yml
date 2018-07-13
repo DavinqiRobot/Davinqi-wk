@@ -1,9 +1,9 @@
-version: 1.3.2
+version: 1.3.0
 files:
-  - url: Davinqi Setup 1.3.2.exe
-    sha512: T2EAzxJXiB9TqX7XyaxCNwZirKYkpCZe2ecr7guhKidNr/VMXdEzUwyIVIHO6I20Gj613PNnr84hk2cpIToHtg==
-    size: 41275849
-path: Davinqi Setup 1.3.2.exe
-sha512: T2EAzxJXiB9TqX7XyaxCNwZirKYkpCZe2ecr7guhKidNr/VMXdEzUwyIVIHO6I20Gj613PNnr84hk2cpIToHtg==
-sha2: 1bce0528274b2a5e3ce3e1c9d7f84e282467649583f7275fa6cadb458885299a
-releaseDate: '2018-07-13T06:32:49.418Z'
+  - url: Davinqi-Setup-1.3.0.exe
+    sha512: +KNYIQFbFRnNKUUpmtTs3GtInr8krFcNU6ncSILc9lEqAjU2TeSZhXu4XSamkAQmbieJe9sVEXF46SLNwG6afA==
+    size: 76066772
+path: Davinqi-Setup-1.3.0.exe
+sha512: +KNYIQFbFRnNKUUpmtTs3GtInr8krFcNU6ncSILc9lEqAjU2TeSZhXu4XSamkAQmbieJe9sVEXF46SLNwG6afA==
+sha2: 99a032b6ab13cbc6d01631813c095fd9997ae524b759e3b60a440bb16f1b5d2c
+releaseDate: '2018-07-13T08:56:47.285Z'
